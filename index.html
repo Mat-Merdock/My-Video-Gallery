@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        /* Basic Styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            color: #333;
+        }
+
+        .login-container {
+            margin-top: 150px;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+
+        input {
+            display: block;
+            margin: 10px auto;
+            padding: 10px;
+            width: 80%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .error-msg {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h1>Login</h1>
+        <form id="loginForm">
+            <input type="text" id="loginId" placeholder="Login ID" required>
+            <input type="password" id="pin" placeholder="PIN" required>
+            <button type="submit">Login</button>
+            <p id="errorMsg" class="error-msg"></p>
+        </form>
+    </div>
+
+    <script>
+        // Handle Login
+        document.getElementById('loginForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const loginId = document.getElementById('loginId').value;
+            const pin = document.getElementById('pin').value;
+
+            if (loginId === 'Qwerty' && pin === '12345') {
+                alert('Login successful!');
+                window.location.href = 'gallery.html';  // Redirect to the protected page
+            } else {
+                document.getElementById('errorMsg').textContent = 'Invalid Login ID or PIN!';
+            }
+        });
+    </script>
+</body>
+</html>
