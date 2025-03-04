@@ -1,7 +1,7 @@
 videoData.push(
     {
         url: 'https://javct.net/v/start-245-rm',
-        title: 'START-245-RM ""Always having sex with MINAMO"" A big dick is inserted all day long from morning to night, and it's instant sex',
+        title: 'START-245-RM ""Always having sex with MINAMO"" A big dick is inserted all day long from morning to night, and its instant sex',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2025/02/1start245pl.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
@@ -9,7 +9,7 @@ videoData.push(
 
     {
         url: 'https://pics.dmm.co.jp/mono/movie/adult/1start245/1start245pl.jpg',
-        title: 'START-224-RM Verification. Contacting A Female Teacher Who Assaulted A Student! What Happens To A Woman's Sexual Desire After Three Years Of Abstinence? MINAMO',
+        title: 'START-224-RM Verification. Contacting A Female Teacher Who Assaulted A Student! What Happens To A Womans Sexual Desire After Three Years Of Abstinence? MINAMO',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2025/01/1start224pl.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
@@ -17,7 +17,7 @@ videoData.push(
 
     {
         url: 'https://javct.net/v/start-208-rm',
-        title: 'START-208-RM A Men's Beauty Salon Girl Who Is A Kisser. Immediately After Ejaculation, She Gives A Sexy Kiss To Recover The Erection And Ejaculates Continuously For A Total Of 10 Shots MINAMO',
+        title: 'START-208-RM A Mens Beauty Salon Girl Who Is A Kisser. Immediately After Ejaculation, She Gives A Sexy Kiss To Recover The Erection And Ejaculates Continuously For A Total Of 10 Shots MINAMO',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2024/12/1start208pl.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
@@ -41,7 +41,7 @@ videoData.push(
 
     {
         url: 'https://javct.net/v/start-158-rm',
-        title: 'START-158-RM Sex Outpatient Clinic Specializing In Sexual Desire Treatment 23 Special Edition SODstar MINAMO Absolute Ace Nurse's Beautiful Big Butt Grabs, Hard Piston Hits Sexual Intercourse Treatment',
+        title: 'START-158-RM Sex Outpatient Clinic Specializing In Sexual Desire Treatment 23 Special Edition SODstar MINAMO Absolute Ace Nurses Beautiful Big Butt Grabs, Hard Piston Hits Sexual Intercourse Treatment',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2024/10/1start158pl.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
@@ -49,7 +49,7 @@ videoData.push(
 
     {
         url: 'https://javct.net/v/start-148-rm',
-        title: 'START-148-RM A Beautiful Teacher At My Son's Nursery School And His Wife Had A Secret Meeting At Home While They Were Returning Home And Had Sex For A Week. MINAMO',
+        title: 'START-148-RM A Beautiful Teacher At My Sons Nursery School And His Wife Had A Secret Meeting At Home While They Were Returning Home And Had Sex For A Week. MINAMO',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2024/09/1start148pl.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
@@ -97,7 +97,7 @@ videoData.push(
 
     {
         url: 'https://javct.net/v/start-022-rm',
-        title: 'START-022-RM Date×××. I Was Attacked By Guys From The Same University's Movie Club That I Trusted, And They Deep Throated Me Over And Over Again, And Then Creampied Me... MINAMO',
+        title: 'START-022-RM Date×××. I Was Attacked By Guys From The Same Universitys Movie Club That I Trusted, And They Deep Throated Me Over And Over Again, And Then Creampied Me... MINAMO',
         thumbnail: 'https://cdn.javsts.com/wp-content/uploads/2024/04/START-022.jpg',
         category: 'All,JAV',
         tags: 'Minamo'
